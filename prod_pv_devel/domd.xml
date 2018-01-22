@@ -15,4 +15,5 @@
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="krogoth" revision="55c8a76da5dc099a7bc3838495c672140cedb78e" />
     <project remote="linaro" name="openembedded/meta-linaro" path="meta-linaro" upstream="krogoth" revision="2f51d38048599d9878f149d6d15539fb97603f8f" />
     <project remote="epam" name="epmd-aepr/img-proprietary" path="proprietary" upstream="master" revision="master" />
+    <project name="kraj/meta-clang" path="meta-clang" upstream="morty" revision="morty" />
 </manifest>
